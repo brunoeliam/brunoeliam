@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Bruno</h1>
-- 📫 Como contactarme: **brunomercapide@hotmail.com**
+- 📫 Como contactarme **brunomercapide@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
